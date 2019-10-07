@@ -7,7 +7,7 @@ Die Opt-ins werden erst angezeigt, wenn der Kunde am Shop angemeldet ist. Einzig
 
 Rechnungsadresse
 ----------------
-Unter :menuselection:`Mein Konto -> Rechnungs- und Liefereinstellungen` können die Rechnungsadresse sowie alle vorhandenen Lieferadressen eines Kunden eingesehen und bearbeitet werden.
+Unter :menuselection:`Mein Konto --> Rechnungs- und Liefereinstellungen` können die Rechnungsadresse sowie alle vorhandenen Lieferadressen eines Kunden eingesehen und bearbeitet werden.
 
 Wurde die Moduleinstellung :guilabel:`Opt-in für Rechnungsadresse anzeigen` aktiviert, muss der Kunde explizit zustimmen, wenn er die Rechnungsadresse geändert hat und diese speichern will. Das Kontrollkästchen für das Opt-in muss dafür angehakt werden.
 
@@ -20,7 +20,7 @@ Wurde die Moduleinstellung :guilabel:`Opt-in für Rechnungsadresse anzeigen` akt
 
 Lieferadressen
 --------------
-Unter :menuselection:`Mein Konto -> Rechnungs- und Liefereinstellungen` werden alle vorhandenen Lieferadressen eines Kunden aufgelistet, wenn das Kontrollkästchen Rechnungsadresse als Lieferadresse verwenden nicht angehakt ist. Hier kann eine vorhandene Lieferadresse bearbeitet oder eine neue hinzugefügt werden.
+Unter :menuselection:`Mein Konto --> Rechnungs- und Liefereinstellungen` werden alle vorhandenen Lieferadressen eines Kunden aufgelistet, wenn das Kontrollkästchen Rechnungsadresse als Lieferadresse verwenden nicht angehakt ist. Hier kann eine vorhandene Lieferadresse bearbeitet oder eine neue hinzugefügt werden.
 
 .. image:: media/screenshots/oxdajj02.png
    :alt: Lieferadresse erstellen oder bearbeiten

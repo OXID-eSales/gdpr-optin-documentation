@@ -130,6 +130,9 @@ html_theme_path = ['_themes']
 
 html_context = {
     'current_version': '2.2',
+    'versions':
+        [('2.1', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.1/'),
+         ('2.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.2/')],
     'css_files': [('_static/oxid.css')],
     'theme_logo_only': True,
     'show_sphinx': False,

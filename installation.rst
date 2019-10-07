@@ -8,7 +8,7 @@ Dieses Dokument beschreibt die Installation des Moduls GDPR Opt-in für den OXID
 
 Systemvoraussetzungen
 ---------------------
-Für das Modul GDPR Opt-in sind keine speziellen Systemvoraussetzungen notwendig. Es gelten die des OXID eShop: https://docs.oxid-esales.com/eshop/de/6.0/installation/neu-installation/server-und-systemvoraussetzungen.html.
+Für das Modul GDPR Opt-in sind keine speziellen Systemvoraussetzungen notwendig. Es gelten die des OXID eShop: https://docs.oxid-esales.com/eshop/de/6.0/installation/neu-installation/server-und-systemvoraussetzungen.html mit der Einschränkung, dass PHP 5.6 nicht mehr unterstützt wird.
 
 --------------------------------------------------
 
@@ -21,7 +21,7 @@ Das Modul GDPR Opt-in muss aus dem Repository heruntergeladen und installiert we
 
 .. code:: bash
 
-   composer require oxid-esales/gdpr-optin-module:^2.1.0
+   composer require oxid-esales/gdpr-optin-module:^2.2.0
 
 Installiert die letzte, für den OXID eShop (Compilation) 6.0.2 und höher veröffentlichte Version des Moduls.
 

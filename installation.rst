@@ -1,7 +1,7 @@
 Installation
 ============
 
-Dieses Dokument beschreibt die Installation des Moduls GDPR Opt-in für den OXID eShop (Compilation) 6.0.2 und höher.
+Dieses Dokument beschreibt die Installation des Moduls GDPR Opt-in für den OXID eShop (Compilation) ab 6.0.2 bis 6.1.x.
 
 .. |schritt| image:: media/icons/schritt.jpg
                :class: no-shadow
@@ -23,7 +23,7 @@ Das Modul GDPR Opt-in muss aus dem Repository heruntergeladen und installiert we
 
    composer require oxid-esales/gdpr-optin-module:^2.2.0
 
-Installiert die letzte, für den OXID eShop (Compilation) 6.0.2 und höher veröffentlichte Version des Moduls.
+Installiert die letzte, für den OXID eShop (Compilation) ab 6.0.2 bis 6.1.x. veröffentlichte Version des Moduls.
 
 .. code:: bash
 

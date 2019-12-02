@@ -132,7 +132,8 @@ html_context = {
     'current_version': '2.2',
     'versions':
         [('2.1', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.1/'),
-         ('2.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.2/')],
+         ('2.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.2/'),
+         ('2.3', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.3/')],
     'css_files': [('_static/oxid.css')],
     'theme_logo_only': True,
     'show_sphinx': False,
@@ -320,7 +321,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'personalization', 'Personalization Documentation',
+    (master_doc, 'GDPROptin', 'GDPR-Optin Dokumentation',
      [author], 1)
 ]
 
@@ -335,8 +336,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Personalization', 'Personalization Documentation',
-     author, 'Personalization', 'One line description of project.',
+    (master_doc, 'GDPR-Optin', 'GDPR-Optin Dokumentation',
+     author, 'GDPR-Optin', 'One line description of project.',
      'Miscellaneous'),
 ]
 

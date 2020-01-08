@@ -20,6 +20,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+import datetime as dt
 
 # -- General configuration ------------------------------------------------
 
@@ -54,7 +55,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'GDPR Opt-in Dokumentation'
-copyright = '2019, OXID eSales AG'
+copyright = '2019 - {}, OXID eSales AG'.format(dt.date.today().year)
 author = 'OXID eSales AG'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -321,7 +322,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'personalization', 'Personalization Documentation',
+    (master_doc, 'GDPROptin', 'GDPR-Optin Dokumentation',
      [author], 1)
 ]
 
@@ -336,8 +337,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Personalization', 'Personalization Documentation',
-     author, 'Personalization', 'One line description of project.',
+    (master_doc, 'GDPR-Optin', 'GDPR-Optin Dokumentation',
+     author, 'GDPR-Optin', 'One line description of project.',
      'Miscellaneous'),
 ]
 

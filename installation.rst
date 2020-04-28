@@ -21,17 +21,15 @@ Das Modul GDPR Opt-in muss aus dem Repository heruntergeladen und installiert we
 
 .. code:: bash
 
-   composer require oxid-esales/gdpr-optin-module:^2.1.0
+   composer require --update-no-dev oxid-esales/gdpr-optin-module:^2.1.0
 
 Installiert die letzte, für den OXID eShop (Compilation) 6.0.2 und höher veröffentlichte Version des Moduls.
 
 .. code:: bash
 
-   composer require oxid-esales/gdpr-optin-module:dev-master
+   composer require --update-no-dev oxid-esales/gdpr-optin-module:dev-master
 
 Installiert die aktuelle und noch nicht veröffentlichte Version des Moduls.
-
-Verwenden Sie den Parameter ``--update-no-dev``, wenn die entwicklungsbezogenen Dateien nicht benötigt werden und nicht am Quellcode gearbeitet wird.
 
 |schritt| Modul aktivieren
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

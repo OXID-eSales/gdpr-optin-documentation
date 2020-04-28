@@ -9,7 +9,7 @@ Moduldokumentation
    installation
    konfiguration
    funktionsbeschreibung
-   Changelog (GitHub) ➜ <https://github.com/OXID-eSales/gdpr-optin-module/blob/v2.2.0/CHANGELOG.md>
+   Changelog (GitHub) ➜ <https://github.com/OXID-eSales/gdpr-optin-module/blob/v2.2.1/CHANGELOG.md>
 
 .. image:: media/icons/home.png
     :width: 0 px

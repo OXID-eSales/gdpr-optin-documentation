@@ -1,43 +1,42 @@
 Installation
 ============
 
-Dieses Dokument beschreibt die Installation des Moduls GDPR Opt-in für den OXID eShop (Compilation) 7.0.0 und höher.
+Wir liefern das Modul :productname:`GDPR Opt-in` 2.0 standardmäßig mit OXID eShop 7.0 aus.
 
-.. |schritt| image:: media/icons/schritt.jpg
-               :class: no-shadow
+Bei einer normalen Installation müssen Sie das Modul also nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
 
-Systemvoraussetzungen
----------------------
-Für das Modul GDPR Opt-in sind keine speziellen Systemvoraussetzungen notwendig. Es gelten die des OXID eShop: https://docs.oxid-esales.com/eshop/de/7.0/installation/neu-installation/server-und-systemvoraussetzungen.html.
+Abhängig von Ihrer Installation des OXID eShops können Sie das Modul jedoch bei Bedarf manuell nachinstallieren.
 
---------------------------------------------------
+|prerequisites|
 
-Neu-Installation
-----------------
+Sie haben OXID eShop Version 7.0 oder höher.
 
-|schritt| Modul installieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Das Modul GDPR Opt-in muss aus dem Repository heruntergeladen und installiert werden. Dazu wird per Konsole eines der folgenden Composer-Kommandos im Hauptverzeichnis des Shops ausgeführt:
+|procedure|
 
-.. code:: bash
+1. Laden Sie das Modul :productname:`GDPR Opt-in` aus dem Repository herunter und installieren Sie es.
 
-   composer require --update-no-dev oxid-esales/gdpr-optin-module:^3.0.0
+   Führen Sie dazu im Hauptverzeichnis des Shops (in dem die Datei :file:`composer.json` liegt) einen der folgenden Befehle aus:
 
-Installiert die letzte, für den OXID eShop (Compilation) 7.0.0 und höher veröffentlichte Version des Moduls.
+   * Um die die letzte für den OXID eShop (Compilation) 7.0.0 und höher veröffentlichte Version des Moduls zu installieren:
 
-.. code:: bash
+     .. code:: bash
 
-   composer require --update-no-dev oxid-esales/gdpr-optin-module:dev-b-7.0.x
+        composer require --update-no-dev oxid-esales/gdpr-optin-module:^3.0.0
 
-Installiert die aktuelle und noch nicht veröffentlichte Version des Moduls.
+   * Um die aktuelle und noch nicht veröffentlichte Version des Moduls zu installieren:
 
-|schritt| Modul aktivieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Das Modul muss im Shop unter :menuselection:`Erweiterungen --> Module` aktiviert werden. Auf der Registerkarte :guilabel:`Stamm` des Moduls betätigen Sie die Schaltfläche :guilabel:`Aktivieren`.
+     .. code:: bash
 
-|schritt| Temporäre Dateien löschen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Löschen Sie alle Dateien und Ordner außer der :file:`.htaccess` aus dem Verzeichnis :file:`/tmp` des Shops.
+        composer require --update-no-dev oxid-esales/gdpr-optin-module:dev-b-7.0.x
+
+2. Um das Modul zu aktivieren, tun Sie Folgendes:
+
+   a. Wählen Sie :menuselection:`Erweiterungen --> Module`.
+   b. Wählen Sie das Modul.
+   c. Wählen Sie auf der Registerkarte :guilabel:`Stamm` des Moduls die Schaltfläche :guilabel:`Aktivieren`.
+
+3. Um temporäre Dateien zu löschen, löschen Sie aus dem Verzeichnis :file:`/tmp` des Shops alle Dateien und Ordner außer der Datei :file:`.htaccess`.
+
 
 
 .. Intern: oxdajh, Status:

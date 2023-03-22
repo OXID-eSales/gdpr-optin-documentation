@@ -1,7 +1,7 @@
 Installation
 ============
 
-Wir liefern das Modul :productname:`GDPR Opt-in` 2.0 standardmäßig mit OXID eShop 7.0 aus.
+Wir liefern das Modul :productname:`GDPR Opt-in` 3.0 standardmäßig mit OXID eShop 7.0 aus.
 
 Bei einer normalen Installation müssen Sie das Modul also nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
 

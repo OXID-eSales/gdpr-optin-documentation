@@ -132,7 +132,7 @@ html_theme_path = ['_themes']
 # html_theme_options = {}
 
 html_context = {
-    'current_version': '2.3',
+    'current_version': '3.0',
     'versions':
         [('2.1', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.1/'),
          ('2.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.2/'),

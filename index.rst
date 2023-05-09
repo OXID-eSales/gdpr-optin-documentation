@@ -9,9 +9,7 @@ Moduldokumentation
    installation
    konfiguration
    funktionsbeschreibung
-   Changelog (GitHub) ➜ <https://github.com/OXID-eSales/gdpr-optin-module/blob/v2.3.1/CHANGELOG.md>
-
-.. todo: #HR: which changelog to refer to? -- sind für alle Module da: gdpwr s. 3.0
+   Changelog (GitHub) ➜ <https://github.com/OXID-eSales/gdpr-optin-module/blob/v3.0.0/CHANGELOG.md>
 
 .. image:: media/icons/home.png
     :width: 0 px

@@ -9,7 +9,7 @@ Abhängig von Ihrer Installation des OXID eShops können Sie das Modul jedoch be
 
 |prerequisites|
 
-Sie haben OXID eShop Version 7.0 oder höher.
+Sie haben OXID eShop Version 7.x.
 
 |procedure|
 

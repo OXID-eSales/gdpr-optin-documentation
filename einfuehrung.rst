@@ -1,21 +1,37 @@
 Einführung
 ==========
 
-Das Modul GDPR Opt-in stellt Opt-in-Funktionen bereit, welche der OXID eShop für die Umsetzung der Datenschutz-Grundverordnung (DSGVO) benötigt. Damit wird ermöglicht, dass der Kunde beim Ändern der Rechnungsadresse, beim Anlegen von Lieferadressen, bei der Registrierung im Shop, bei der Bewertung von Artikeln oder beim Abschicken einer Kontaktanfrage explizit der Speicherung und Verarbeitung seiner personenbezogenen Daten zustimmen muss. Für das Kontaktformular kann alternativ festgelegt werden, dass die Daten nach deren Verarbeitung sofort gelöscht werden.
+Setzen Sie mit dem Modul :productname:`GDPR Opt-in` die Datenschutz-Grundverordnung (DSGVO) für Ihren OXID eShop um.
 
-Die Funktionen des Moduls sind die Basis dafür, Anforderungen der Datenschutz-Grundverordnung im OXID eShop umzusetzen. Sie sind nach gründlicher Rechtsberatung und abhängig vom jeweiligen Geschäftsmodell im Shop einzusetzen. Sie resultieren aus der EU-Verordnung Nr. 2016/679, der General Data Protection Regulation (GDPR) und ihrer deutschen Umsetzung, der Datenschutz-Grundverordnung (DSGVO). Die Verordnung regelt die Verarbeitung personenbezogener Daten durch Unternehmen und öffentliche Stellen und gilt europaweit ab dem 25. Mai 2018.
+Holen Sie damit die ausdrückliche Zustimmung Ihrer Kunden zur Speicherung und Verarbeitung ihrer personenbezogenen Daten ein:
 
-Detaillierte Informationen zum Thema finden Sie beispielsweise auf einer Seite der freien Enzyklopädie Wikipedia: https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung. Auch die Webseiten von Trusted Shop und dem Händlerbund informieren speziell Shopbetreiber ausführlich über die Datenschutz-Grundverordnung: https://shop.trustedshops.com/de/dsgvo und https://www.haendlerbund.de.
+.. todo: #HR: Der folgende Satz ist vielleicht er wichtigste. Wie entscheide ich, welche Zustimmungen ich brauche? Immer Rechtsanwalt fragen?
+
+Nutzen Sie die Funktionen nach gründlicher Rechtsberatung und abhängig vom jeweiligen Geschäftsmodell in Ihrem OXID eShop.
+
+|background|
+
+Die Anforderungen resultieren aus der EU-Verordnung Nr. 2016/679, der General Data Protection Regulation (GDPR) und ihrer deutschen Umsetzung, der Datenschutz-Grundverordnung (DSGVO).
+
+Die Verordnung regelt die Verarbeitung personenbezogener Daten durch Unternehmen und öffentliche Stellen und gilt europaweit seit dem 25. Mai 2018.
+
+Detaillierte Informationen zum Thema finden Sie beispielsweise auf in der freien Enzyklopädie Wikipedia unter https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung.
+
+Auch die Webseiten von Trusted Shop und dem Händlerbund informieren speziell Shopbetreiber ausführlich über die Datenschutz-Grundverordnung: https://shop.trustedshops.com/de/dsgvo und https://www.haendlerbund.de.
 
 Die Funktionen im Überblick
 ---------------------------
-* Umsetzung der Datenschutz-Grundverordnung (DSGVO) zur Verarbeitung personenbezogener Daten durch Unternehmen und öffentliche Stellen
-* Opt-in beim Ändern der Rechnungsadresse kann angezeigt werden
-* Opt-in beim Anlegen von Lieferadresse kann eingeblendet werden
-* Opt-in beim Registrieren im Shop kann angezeigt werden
-* Opt-in bei der Bewertung von Artikeln ist möglich
-* Kontaktformular kann Opt-in für Verarbeitung und statistische Verwendung der Daten anzeigen
-* Kontaktformular kann Hinweis auf das Löschen der Daten nach Verarbeitung anzeigen
 
+
+* Opt-in beim Ändern der Rechnungsadresse anzeigen: :ref:`funktionsbeschreibung:Opt-in Rechnungsadresse aktivieren`
+* Opt-in beim Anlegen einer Lieferadresse anzeigen: :ref:`funktionsbeschreibung:Opt-in Lieferadressen aktivieren`
+* Opt-in beim Registrieren im Shop anzeigen: :ref:`funktionsbeschreibung:Opt-in Registrierung aktivieren`
+* Opt-in bei der Bewertung von Artikeln anzeigen: :ref:`funktionsbeschreibung:Opt-in Bewertung aktivieren`
+* Kontakdaten: :ref:`funktionsbeschreibung:Opt-in Kontaktformular aktivieren`
+
+  * Opt-in für Verarbeitung und statistische Verwendung der Kontaktdaten anzeigen
+  * Hinweis auf das Löschen der Kontaktdaten nach der Verarbeitung anzeigen
+
+* :ref:`funktionsbeschreibung:Benutzerdaten GDPR-konform exportieren`
 
 .. Intern: oxdajg, Status:

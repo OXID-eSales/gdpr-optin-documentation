@@ -2,14 +2,14 @@ Moduldokumentation
 ==================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: GDPR Opt-In
 
    einfuehrung
    installation
    konfiguration
    funktionsbeschreibung
-   Changelog (GitHub) ➜ <https://github.com/OXID-eSales/gdpr-optin-module/blob/v4.0.0/CHANGELOG.md>
+   releases/index
 
 .. image:: media/icons/home.png
     :width: 0 px

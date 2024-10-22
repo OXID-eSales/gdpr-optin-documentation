@@ -137,6 +137,7 @@ html_context = {
          ('2.3', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/2.3/'),
          ('3.0', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/3.0/'),
          ('4.0', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.0/')],
+         ('4.1', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.1/')],
     'css_files': [('_static/oxid.css')],
     'theme_logo_only': True,
     'show_sphinx': False,

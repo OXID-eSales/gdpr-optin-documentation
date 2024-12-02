@@ -5,9 +5,7 @@ Setzen Sie mit dem Modul :productname:`GDPR Opt-in` die Datenschutz-Grundverordn
 
 Holen Sie damit die ausdrückliche Zustimmung Ihrer Kunden zur Speicherung und Verarbeitung ihrer personenbezogenen Daten ein.
 
-.. todo: #HR: Der folgende Satz ist vielleicht er wichtigste. Wie entscheide ich, welche Zustimmungen ich brauche? Immer Rechtsanwalt fragen?
-
-Nutzen Sie die Funktionen nach gründlicher Rechtsberatung und abhängig vom jeweiligen Geschäftsmodell in Ihrem OXID eShop.
+Nutzen Sie die Funktionen nach Rechtsberatung und abhängig vom jeweiligen Geschäftsmodell in Ihrem OXID eShop.
 
 |background|
 

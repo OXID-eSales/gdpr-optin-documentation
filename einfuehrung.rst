@@ -3,7 +3,7 @@ Einführung
 
 Setzen Sie mit dem Modul :productname:`GDPR Opt-in` die Datenschutz-Grundverordnung (DSGVO) für Ihren OXID eShop um.
 
-Holen Sie damit die ausdrückliche Zustimmung Ihrer Kunden zur Speicherung und Verarbeitung ihrer personenbezogenen Daten ein:
+Holen Sie damit die ausdrückliche Zustimmung Ihrer Kunden zur Speicherung und Verarbeitung ihrer personenbezogenen Daten ein.
 
 .. todo: #HR: Der folgende Satz ist vielleicht er wichtigste. Wie entscheide ich, welche Zustimmungen ich brauche? Immer Rechtsanwalt fragen?
 
@@ -19,9 +19,7 @@ Detaillierte Informationen zum Thema finden Sie beispielsweise auf in der freien
 
 Auch die Webseiten von Trusted Shop und dem Händlerbund informieren speziell Shopbetreiber ausführlich über die Datenschutz-Grundverordnung: https://shop.trustedshops.com/de/dsgvo und https://www.haendlerbund.de.
 
-Die Funktionen im Überblick
----------------------------
-
+**Die Funktionen im Überblick**
 
 * Opt-in beim Ändern der Rechnungsadresse anzeigen: :ref:`funktionsbeschreibung:Opt-in Rechnungsadresse aktivieren`
 * Opt-in beim Anlegen einer Lieferadresse anzeigen: :ref:`funktionsbeschreibung:Opt-in Lieferadressen aktivieren`

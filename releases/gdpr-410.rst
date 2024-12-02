@@ -1,7 +1,7 @@
 GDPR opt-in 4.1.0
 =================
 
-.. todo: #HR: Release-Datum: tbd
+Release-Datum: 14.10.2024
 
 Neue Funktionen
 ---------------

@@ -6,6 +6,7 @@ Informieren Sie sich über Neuerungen und Änderungen der Versionen des Moduls :
 .. toctree::
    :maxdepth: 1
 
+   GDPR Opt-in 4.2.0 <gdpr-420>
    GDPR Opt-in 4.1.0 <gdpr-410>
 
 

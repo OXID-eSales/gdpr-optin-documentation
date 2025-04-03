@@ -1,0 +1,23 @@
+GDPR opt-in 4.2.0
+=================
+
+.. todo: #HR: Determine date
+
+Release-Datum: #tbd
+
+.. todo: #HR: Determine new functions, if any
+
+Kompatibilität
+---------------
+
+Nutzen Sie das Modul :productname:`GDPR Opt-in` 4.2, wenn Sie OXID eShop 7.3 haben. Es wird standardmäßig mit ausgeliefert.
+
+Weitere Informationen finden Sie unter :ref:`installation:Installation`.
+
+
+Changelog (GitHub)
+------------------
+
+.. todo: #tbd: Verify URL
+
+Das  Changelog finden Sie unter <https://github.com/OXID-eSales/gdpr-optin-module/blob/v4.2.0/CHANGELOG.md>.

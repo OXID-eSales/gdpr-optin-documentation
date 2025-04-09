@@ -14,10 +14,14 @@ Nutzen Sie das Modul :productname:`GDPR Opt-in` 4.2, wenn Sie OXID eShop 7.3 hab
 
 Weitere Informationen finden Sie unter :ref:`installation:Installation`.
 
+Neue Funktionen
+---------------
+
+:productname:`GDPR Opt-in` 4.2 unterstützt PHP 8.4.
 
 Changelog (GitHub)
 ------------------
 
 .. todo: #tbd: Verify URL
 
-Das  Changelog finden Sie unter <https://github.com/OXID-eSales/gdpr-optin-module/blob/v4.2.0/CHANGELOG.md>.
+Das Changelog finden Sie unter <https://github.com/OXID-eSales/gdpr-optin-module/blob/v4.2.0/CHANGELOG.md>.

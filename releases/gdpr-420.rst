@@ -15,7 +15,7 @@ Weitere Informationen finden Sie unter :ref:`installation:Installation`.
 Neue Funktionen
 ---------------
 
-:productname:`GDPR Opt-in` 4.2 unterstützt PHP 8.4.
+:productname:`GDPR Opt-in` wurde mit OXID eShop-Version 7.3 getestet und ist mit allen PHP-Versionen kompatibel, die von dieser OXID eShop-Version unterstützt werden – einschließlich PHP 8.4.
 
 Changelog (GitHub)
 ------------------

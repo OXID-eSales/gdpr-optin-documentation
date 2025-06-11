@@ -1,9 +1,7 @@
 GDPR opt-in 4.2.0
 =================
 
-.. todo: #HR: Determine date
-
-Release-Datum: #tbd
+Release-Datum: 10.04.2025
 
 Kompatibilität
 ---------------

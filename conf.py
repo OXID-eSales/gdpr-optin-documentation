@@ -60,7 +60,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'GDPR Opt-in Dokumentation'
-copyright = '2019 - {}, OXID eSales AG'.format(dt.date.today().year)
+copyright = '2003 \u2013 {}, OXID eSales AG'.format(dt.date.today().year)
 author = 'OXID eSales AG'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -143,9 +143,8 @@ html_context = {
          ('3.0', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/3.0/'),
          ('4.0', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.0/'),
          ('4.1', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.1/'),
-         ('4.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.2/'),
-
-         ],
+         ('4.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.2/')
+     ],
     'css_files': [('_static/oxid.css')],
     'theme_logo_only': True,
     'show_sphinx': False,

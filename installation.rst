@@ -1,7 +1,7 @@
 Installation
 ============
 
-Wir liefern das Modul :productname:`GDPR Opt-in` 4.2 standardmäßig mit OXID eShop 7.3 aus.
+Wir liefern das Modul :productname:`GDPR Opt-in` 4.3 standardmäßig mit OXID eShop 7.4 aus.
 
 Bei einer normalen Installation müssen Sie das Modul also nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
 
@@ -9,7 +9,7 @@ Abhängig von Ihrer Installation des OXID eShops können Sie das Modul jedoch be
 
 |prerequisites|
 
-Sie haben OXID eShop Version 7.3.
+Sie haben OXID eShop Version 7.4.
 
 |procedure|
 
@@ -19,7 +19,7 @@ Sie haben OXID eShop Version 7.3.
 
    .. code:: bash
 
-      composer require --update-no-dev oxid-esales/gdpr-optin-module:^4.2.0
+      composer require --update-no-dev oxid-esales/gdpr-optin-module:^4.3.0
 
 2. Um das Modul zu aktivieren, tun Sie Folgendes:
 

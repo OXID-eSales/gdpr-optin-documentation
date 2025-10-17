@@ -1,9 +1,7 @@
 GDPR opt-in 4.3.0
 =================
 
-Release-Datum: 14.10.2025
-
-.. todo: #HR determine date
+Release-Datum: 13.10.2025
 
 Kompatibilität
 ---------------

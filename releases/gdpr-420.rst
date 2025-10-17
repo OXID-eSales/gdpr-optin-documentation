@@ -18,6 +18,4 @@ Neue Funktionen
 Changelog (GitHub)
 ------------------
 
-.. todo: #tbd: Verify URL
-
 Das Changelog finden Sie unter <https://github.com/OXID-eSales/gdpr-optin-module/blob/v4.2.0/CHANGELOG.md>.

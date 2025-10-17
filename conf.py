@@ -143,7 +143,8 @@ html_context = {
          ('3.0', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/3.0/'),
          ('4.0', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.0/'),
          ('4.1', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.1/'),
-         ('4.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.2/')
+         ('4.2', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.2/'),
+         ('4.3', 'https://docs.oxid-esales.com/modules/gdpr-optin/de/4.3/'),
      ],
     'css_files': [('_static/oxid.css')],
     'theme_logo_only': True,

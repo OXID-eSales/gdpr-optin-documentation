@@ -1,7 +1,7 @@
 Funktionen
 ==========
 
-Die Funktionen, die das Modul GDPR Opt-in bereitstellt, nuten Ihre Kunden im Frontend Ihres OXID eShops.
+Die Funktionen, die das Modul GDPR Opt-in bereitstellt, nutzen Ihre Kunden im Frontend Ihres OXID eShops.
 
 Sie fordern von Kunden die ausdrückliche Zustimmung zur Speicherung und Verarbeitung ihrer Daten beim Ändern der Rechnungsadresse, dem Anlegen von Lieferadressen, bei der Registrierung im Shop, bei der Bewertung von Artikeln und beim Abschicken von Anfragen über das Kontaktformular.
 

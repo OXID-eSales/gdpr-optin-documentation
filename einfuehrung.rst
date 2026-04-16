@@ -13,9 +13,9 @@ Die Anforderungen resultieren aus der EU-Verordnung Nr. 2016/679, der General Da
 
 Die Verordnung regelt die Verarbeitung personenbezogener Daten durch Unternehmen und öffentliche Stellen und gilt europaweit seit dem 25. Mai 2018.
 
-Detaillierte Informationen zum Thema finden Sie beispielsweise auf in der freien Enzyklopädie Wikipedia unter https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung.
+Detaillierte Informationen zum Thema finden Sie beispielsweise in der freien Enzyklopädie Wikipedia unter https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung.
 
-Auch die Webseiten von Trusted Shop und dem Händlerbund informieren speziell Shopbetreiber ausführlich über die Datenschutz-Grundverordnung: https://shop.trustedshops.com/de/dsgvo und https://www.haendlerbund.de.
+Auch die Webseite des Händlerbundes informiert speziell Shopbetreiber ausführlich über die Datenschutz-Grundverordnung: https://www.haendlerbund.de.
 
 **Die Funktionen im Überblick**
 
@@ -23,7 +23,7 @@ Auch die Webseiten von Trusted Shop und dem Händlerbund informieren speziell Sh
 * Opt-in beim Anlegen einer Lieferadresse anzeigen: :ref:`funktionsbeschreibung:Opt-in Lieferadressen aktivieren`
 * Opt-in beim Registrieren im Shop anzeigen: :ref:`funktionsbeschreibung:Opt-in Registrierung aktivieren`
 * Opt-in bei der Bewertung von Artikeln anzeigen: :ref:`funktionsbeschreibung:Opt-in Bewertung aktivieren`
-* Kontakdaten: :ref:`funktionsbeschreibung:Opt-in Kontaktformular aktivieren`
+* Kontaktdaten: :ref:`funktionsbeschreibung:Opt-in Kontaktformular aktivieren`
 
   * Opt-in für Verarbeitung und statistische Verwendung der Kontaktdaten anzeigen
   * Hinweis auf das Löschen der Kontaktdaten nach der Verarbeitung anzeigen

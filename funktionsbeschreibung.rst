@@ -103,7 +103,7 @@ Diese exportierten Daten umfassen persönliche Informationen sowie alle zugehör
 
       Abb.: Benutzerdaten exportieren
 
-   Das System generiert eine ZIP-Datei, die alle verfügbaren Daten des Benutzers enthält, und lädt sie über den Browser herunter.
+   Das System generiert eine ZIP-Datei, die alle verfügbaren Daten des Benutzers als JSON-Dateien (Dateiendung :file:`.json`) enthält, und lädt sie über den Browser herunter.
 
    Nach dem Download wird die temporäre ZIP-Datei auf dem Server automatisch entfernt, um sicherzustellen, dass der Server optimiert und aufgeräumt bleibt.
 

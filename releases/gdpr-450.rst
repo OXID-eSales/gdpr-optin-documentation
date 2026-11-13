@@ -1,7 +1,7 @@
 GDPR opt-in 4.5.0
 =================
 
-Release-Datum: TBD
+Release-Datum: 08.10.2026
 
 Kompatibilität
 ---------------
@@ -18,7 +18,7 @@ Neue Funktionen
 
 :productname:`GDPR Opt-in` wurde mit OXID eShop-Version 7.6
 getestet und ist mit allen PHP-Versionen kompatibel, die von
-dieser OXID eShop-Version unterstützt werden – einschließlich
+dieser OXID eShop-Version unterstützt werden, einschließlich
 PHP 8.5.
 
 Behobene Fehler
